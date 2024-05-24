@@ -1,1 +1,1 @@
-{"phpstan":{"label":"Static Analysis","icon":"github","status":"failing","color":"red"},"tests":{"label":"Tests","icon":"github","status":"passing","color":"green"}}
+{"phpstan":{"label":"Static Analysis","icon":"github","status":"failing","color":"red"},"tests":{"label":"Tests","icon":"github","status":"passing","color":"green"},"docs_reports":{"label":"Docs & Reports build","icon":"github","status":"done","color":"green"}}
